@@ -26,7 +26,7 @@ Durante os estudos de front-end, das aulas de formação em Desenvolvimento Full
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Renata-Fernandes/Angular-TS-Sass) ou [baixá-lo]().
+Você pode [acessar o código fonte do projeto inicial](https://github.com/Renata-Fernandes/Angular-TS-Sass) ou [baixá-lo](https://github.com/Renata-Fernandes/Front-end-Pokemon-List.git).
 
 ## :computer: Tecnologias utilizadas
 
