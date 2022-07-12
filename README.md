@@ -1,6 +1,6 @@
 <h1 align="center"> Pokemon List </h1>
 
-![Página de site criada para exibir em formato de lista pokemons](https://user-images.githubusercontent.com/102121775/178087313-a2fe902c-0c03-4fb6-98a1-f2842e982ef8.png)
+![Página de site criada para exibir em formato de lista pokemons](https://user-images.githubusercontent.com/102121775/178396582-f402a138-f18e-469f-a09b-d622d8e345d5.png)
 <br>
 
 <p align="center">
