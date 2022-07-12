@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status%20do%20projeto-Em%20desenvolvimento-yellow"/>
+<img src="https://img.shields.io/badge/Status%20do%20projeto-Concluído-green"/>
 </p>
 
 
